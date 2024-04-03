@@ -1,0 +1,1 @@
+{"version":3,"file":"termsCondition.schema.js","sourceRoot":"","sources":["../../src/schema/termsCondition.schema.ts"],"names":[],"mappings":";;;AAAA,qCAAoC;AAGvB,QAAA,oBAAoB,GAAG,IAAI,QAAQ,CAAC,MAAM,CAAC;IACpD,eAAe,EAAE,EAAE,IAAI,EAAE,MAAM,EAAE,QAAQ,EAAE,IAAI,EAAE;CAEpD,EAAE;IACC,UAAU,EAAE,IAAI;IAChB,UAAU,EAAE,KAAK;CACpB,CAAC,CAAC"}
